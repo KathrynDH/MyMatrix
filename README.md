@@ -12,16 +12,27 @@ Include:
 
 Methods:
 <code>   print_matrix(self, percision = 4)
+
     add(self, other)
+
     subtract(self, other)
+
     multiply_scalar(self, a)
+
     multiply(self, other)
+
     transpose(self)
+
     determinant(self)
+
     cofactor(self, i, j)
+
     adjoin(self)
+
     inverse(self)
+
     id(rows)
+
     exp(self, n)
 </code>    
 
@@ -39,7 +50,7 @@ transpose: <code> a.transpose() </code>
 inverse: <code> a.inverse() </code> or <code> a**-1 </code>
 
 </code>
-Jupyter notebook: [link]
+Jupyter notebook: [Notebook examples](https://github.com/KathrynDH/MyMatrix/blob/main/MatrixMathExamples.ipynb)
 
 Also see examples.py in this repository.
 

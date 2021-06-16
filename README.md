@@ -13,6 +13,7 @@ Include:
 Methods:
 
 <code>   
+
     print_matrix(self, percision = 4)
 
     add(self, other)
@@ -43,6 +44,7 @@ Magic methods:
 
 ## Examples
 <code> a = MatrixMath([[1,2],[3,4]]) </code>
+
 printing: <code> a.print_matrix() </code>
 
 determinant: <code> a.determinant() </code>
@@ -52,6 +54,7 @@ transpose: <code> a.transpose() </code>
 inverse: <code> a.inverse() </code> or <code> a**-1 </code>
 
 </code>
+
 Jupyter notebook:
 [Notebook examples](https://github.com/KathrynDH/MyMatrix/blob/main/MatrixMathExamples.ipynb)
 

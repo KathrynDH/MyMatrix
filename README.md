@@ -11,7 +11,9 @@ Include:
 <code> from matrix_math import MatrixMath </code>
 
 Methods:
-<code>   print_matrix(self, percision = 4)
+
+<code>   
+    print_matrix(self, percision = 4)
 
     add(self, other)
 
@@ -50,7 +52,8 @@ transpose: <code> a.transpose() </code>
 inverse: <code> a.inverse() </code> or <code> a**-1 </code>
 
 </code>
-Jupyter notebook: [Notebook examples](https://github.com/KathrynDH/MyMatrix/blob/main/MatrixMathExamples.ipynb)
+Jupyter notebook:
+[Notebook examples](https://github.com/KathrynDH/MyMatrix/blob/main/MatrixMathExamples.ipynb)
 
 Also see examples.py in this repository.
 

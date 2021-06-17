@@ -3,7 +3,7 @@ MatrixMath is a light weight class for performing basic matrix operations.
 
 No additional packages are required. It uses only built in Python functions.
 
-A MatrixMath object is constructed from an $$m \times n$$ 2-dimensional list
+A MatrixMath object is constructed from an m x n 2-dimensional list
 
 
 ## Getting Started
@@ -58,7 +58,7 @@ inverse: <code> a.inverse() </code> or <code> a**-1 </code>
 Jupyter notebook:
 [Notebook examples](https://github.com/KathrynDH/MyMatrix/blob/main/MatrixMathExamples.ipynb)
 
-Also see examples.py in this repository.
+Also see examples.py.
 
 ## License
 The contents of this repository are covered under the [MIT License](LICENSE).

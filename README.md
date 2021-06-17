@@ -1,9 +1,9 @@
 # Matrix-math
 MatrixMath is a light weight class for performing basic matrix operations.
 
-No additional pacakages are required. It uses only builtin Python functions.
+No additional packages are required. It uses only built in Python functions.
 
-A MatrixMath object is constructed from an $m \times n$ 2-dimensional list
+A MatrixMath object is constructed from an $$m \times n$$ 2-dimensional list
 
 
 ## Getting Started

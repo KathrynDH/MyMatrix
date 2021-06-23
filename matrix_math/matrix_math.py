@@ -179,6 +179,8 @@ class MatrixMath():
 		Args:
 			i (int): row of element
             j (int): column of element
+            *Note: method uses traditional matrix 1-based indexing
+             The first element in the first row would be i=1, j=1
 
 		Returns:
 			int, float, complex: cofactor of the matrix element

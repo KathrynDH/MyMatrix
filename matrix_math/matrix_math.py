@@ -1,3 +1,12 @@
+"""
+Created on Tues Jun 15 2021
+
+@author: Kathryn Haske
+
+MatrixMath Python class
+
+"""
+
 class MatrixMath():
     """ Class for performing matix operations
 

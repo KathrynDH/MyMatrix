@@ -1,3 +1,11 @@
+"""
+Created on Wed Jun 16 2021
+
+@author: Kathryn Haske
+
+Example usage for MatrixMath Python class
+
+"""
 from matrix_math import MatrixMath
 
 def demonstrate(a):

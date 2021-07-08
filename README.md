@@ -14,29 +14,19 @@ Methods:
 
 <code>   
 
-    print_matrix(self, percision = 4)
-
-    add(self, other)
-
-    subtract(self, other)
-
-    multiply_scalar(self, a)
-
-    multiply(self, other)
-
-    transpose(self)
-
-    determinant(self)
-
-    cofactor(self, i, j)
-
-    adjoin(self)
-
-    inverse(self)
-
-    id(rows)
-
+    print_matrix(self, percision = 4)  
+    add(self, other)  
+    subtract(self, other)  
+    multiply_scalar(self, a)  
+    multiply(self, other)  
+    transpose(self)  
+    determinant(self)  
+    cofactor(self, i, j)  
+    adjoin(self)  
+    inverse(self)  
+    id(rows)  
     exp(self, n)
+    
 </code>    
 
 Magic methods:

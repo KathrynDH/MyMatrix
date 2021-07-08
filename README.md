@@ -55,8 +55,8 @@ inverse: <code> a.inverse() </code> or <code> a**-1 </code>
 
 </code>
 
-Jupyter notebook:
-[Notebook examples](https://github.com/KathrynDH/MyMatrix/blob/main/MatrixMathExamples.ipynb)
+View the Jupyter notebook with nbviewer:
+[Notebook examples](https://nbviewer.jupyter.org/github/KathrynDH/MyMatrix/blob/main/MatrixMathExamples.ipynb)
 
 Also see examples.py.
 
